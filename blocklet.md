@@ -132,5 +132,5 @@ query etherscan tx history by address support paging
 
 ## Notes
 
-- If the User does not have a `UserInfo` instance when requested then one will
-  be created for them.
+- API depend on cn.etherscan.com .
+- in some case cn.etherscan.com not stable.
